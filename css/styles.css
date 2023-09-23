@@ -50,6 +50,7 @@ a{
 
 .container-header{
     display: flex;
+   
 }
 
 .nav{
@@ -217,6 +218,10 @@ a{
 .app-list{
     width:calc((100%-72px)/4);
     border-radius:0px 0px 4px 4px;
+    display:flex;
+    flex-wrap:wrap;
+    column-gap:24px;
+    row-gap:48px;
 }
 
 .container-team{
