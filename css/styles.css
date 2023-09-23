@@ -174,10 +174,19 @@ a{
     background-color:#404BBF;
 }
 
-.about-list{
+.about-list 
+{
     display:flex;
     gap:24px;
 }
+
+.about-item {
+    background-color: #FFFFFF;
+    display:flex;
+    gap:24px;
+    width: calc((100%-72px)/4);
+}
+
 
 .about {
     background-color: #FFFFFF;
