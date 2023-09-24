@@ -124,6 +124,12 @@ a{
     margin-top: 24px;
     margin-bottom: 24px;
 }
+.contact-info{
+font-style: normal;
+display: flex;
+align-items: center;
+margin-left: auto;
+}
 
 .solutions-text{
     font-size: 56px;
