@@ -263,20 +263,17 @@ padding:188px 0;
     }
 
 
-.benefits .about-list 
+.benefits  
 {
     display:flex;
     gap:24px;
+    
+}
+
+.about-list{
     width: calc((100% - 72px) / 4);
 }
 
-
-  
-.desc {
-    color: #F4F4FD;
-    line-height: 1.5;
-    letter-spacing: 0.02em; 
-}
 
 
 .container{
@@ -306,4 +303,51 @@ padding:188px 0;
     margin-bottom: 16px;
 
   }
+
+  .section-our-team {
+    padding:120px 0;
+}
+
+.our-team-title {
+    font-size: 36px;
+    line-height:1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+    display: flex;
+    margin-bottom:72px;
+    gap:24px;
+}
+.our-team-list {
+    display: flex;
+    gap: 24px;
+}
+.our-team-item {
+    background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+}
+.our-team-subtitle {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.20;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.our-team-text {
+    color: var(--SLATE, #434455);
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.members{
+    padding:32px 0;
+}
   
