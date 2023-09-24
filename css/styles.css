@@ -217,9 +217,8 @@ padding:188px 0;
 
 .container-bank{
     padding:32px 16px;
-    border: 1px solid #e7e9fc;
-    width:calc((100%-48px)/3);
-}
+    border: none;
+   }
 
 .container-team{
     padding:32px 0;
@@ -284,10 +283,6 @@ padding:188px 0;
     
 }
 
-.section{
-    padding-top: 120px;
-    padding-bottom:120px;
-}
 
 .logo-footer {
     color: #4d5ae5;
@@ -377,3 +372,6 @@ padding:188px 0;
     letter-spacing: 0.02em;
 }
   
+.section-app{
+    padding: 120px 0;
+}
