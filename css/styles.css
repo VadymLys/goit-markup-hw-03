@@ -34,7 +34,7 @@ a{
   font-style: normal;
   font-weight: 700;
   line-height: 1.17; 
-  letter-spacing: 0.54px;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   margin-right: 76px;
 }
@@ -292,7 +292,7 @@ padding:188px 0;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17; 
-    letter-spacing: 0.54px;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     margin-right:76px;
     display: inline-block;
