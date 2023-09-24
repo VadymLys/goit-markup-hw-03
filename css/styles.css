@@ -267,11 +267,10 @@ padding:188px 0;
 {
     display:flex;
     gap:24px;
+    width: calc((100% - 72px) / 4);
 }
 
-.about-item {
-   width: calc((100% - 72px) / 4);
-  }
+
   
 .desc {
     color: #F4F4FD;
