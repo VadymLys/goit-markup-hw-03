@@ -44,9 +44,7 @@ button {
     cursor: pointer;
   }
 
-address{
-    display: flex;
-}
+
 
 .logo {
   color: #4d5ae5;
@@ -132,6 +130,7 @@ address{
 .contact{
     display:flex;
     gap:40px;
+    justify-content: center;
 }
 
 
@@ -144,8 +143,12 @@ address{
     letter-spacing: 0.02em;
     margin-top: 24px;
     margin-bottom: 24px;
-   
+   align-items: center;
 }
+
+
+    
+
 
 .solutions-text{
     font-size: 56px;
@@ -235,7 +238,7 @@ color:#ffffff;
 
 .app-item{ 
 
-   width: calc((100% - 48px)/3);
+   width: calc((100% - 48px) / 3);
 
 }
 
