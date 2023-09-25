@@ -24,7 +24,7 @@ img{
 
 ul{
     margin:0;
-    padding: 0;
+    padding:0;
     
 
 }
@@ -43,6 +43,10 @@ button {
     border: none;
     cursor: pointer;
   }
+
+address{
+    display: flex;
+}
 
 .logo {
   color: #4d5ae5;
@@ -140,6 +144,7 @@ button {
     letter-spacing: 0.02em;
     margin-top: 24px;
     margin-bottom: 24px;
+   
 }
 
 .solutions-text{
@@ -231,7 +236,7 @@ color:#ffffff;
 .app-item{ 
 
    width:calc((100%-48px)/3);
-   
+
 }
     
 
