@@ -233,11 +233,12 @@ color:#ffffff;
     row-gap:48px;
 }
 
-.app-item{ 
+.app-list .app-item{ 
 
    width:calc((100%-48px)/3);
 
 }
+
     
 
 .container-bank{
