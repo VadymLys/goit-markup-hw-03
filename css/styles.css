@@ -335,7 +335,8 @@ color:#ffffff;
   }
 
   .section-our-team {
-    padding:120px 0;
+    padding:120px 0; 
+    background-color: #F4F4FD;
 }
 
 .our-team-title {
@@ -352,6 +353,7 @@ color:#ffffff;
 .our-team-list {
     display: flex;
     gap: 24px;
+   
 }
 .our-team-item {
     background-color: #FFFFFF;
