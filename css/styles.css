@@ -89,7 +89,6 @@ button {
 .navigation{
  display: flex;
  align-items: center;
- gap:40px;
 }
 
 .contact-info{
@@ -210,7 +209,6 @@ color:#ffffff;
     text-transform: capitalize;
     color:#2e2f42;
     margin-bottom:8px;
-    display: flex;
     margin-bottom:72px;
     gap:24px;
    
@@ -313,7 +311,7 @@ color:#ffffff;
 .container{
     width:1158px;
     margin-left:auto;
-    margin-right:auto;
+    margin-right: auto;
     padding: 0 15px;
     
 }
@@ -346,7 +344,7 @@ color:#ffffff;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
-    display: flex;
+   
     margin-bottom:72px;
     gap:24px;
 }
